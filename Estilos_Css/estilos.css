@@ -41,3 +41,18 @@ nav a:hover {
     color:blue;
     text-decoration: underline;
 }
+
+/*Organozacion de las imagenes de las tarjetas*/
+#img-4,#img-5,#img-6{
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+#img4,#img6{
+    height: 245px;
+}
+
+#img1,#img3{
+    height: 300px;
+}
+
