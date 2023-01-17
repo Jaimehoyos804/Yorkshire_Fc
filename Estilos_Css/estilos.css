@@ -56,3 +56,8 @@ nav a:hover {
     height: 300px;
 }
 
+/*Video inicial*/
+#video{
+    width: 10px;
+    height: 10px;
+}
